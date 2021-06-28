@@ -22,7 +22,7 @@ drive.mount('/content/drive/')
 !ls drive
 
 import os
-os.chdir("/content/drive/My Drive/Udemy_DerinOgrenmeyeGiris/Regularizasyon ve Optimizasyon")
+os.chdir("/content/drive/My Drive/VeriArtirma")
 
 !ls
 
